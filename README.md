@@ -1,3 +1,4 @@
 # repo-EXERCISES
 Lets make conflict
-I want to sleep ;-;
+Adding some changes in README.md
+And some bla bla 
