@@ -5,4 +5,4 @@ And some bla bla
 No more conflicts 
 I said no more
 Hello darkness smile frend ;-;  
-Resorverd
+Resolved
